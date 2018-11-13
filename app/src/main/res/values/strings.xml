@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlickrGallery</string>
+    <string name="content_desc_photo">A photo from Flickr</string>
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+    <string name="new_photos_notification">New Flickr Photos</string>
+    <string name="new_photos_notification_body">You have new Flickr photos. total: </string>
+    <string name="search_title">Search Flickr</string>
+    <string name="options">options</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="stop_polling">Stop Polling</string>
+</resources>
